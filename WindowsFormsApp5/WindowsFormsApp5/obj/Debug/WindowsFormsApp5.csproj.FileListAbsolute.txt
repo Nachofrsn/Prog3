@@ -1,0 +1,11 @@
+C:\Users\icordero\Desktop\Prog3\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\icordero\Desktop\Prog3\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\icordero\Desktop\Prog3\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\icordero\Desktop\Prog3\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\icordero\Desktop\Prog3\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.frmPrincipal.resources
+C:\Users\icordero\Desktop\Prog3\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\icordero\Desktop\Prog3\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\icordero\Desktop\Prog3\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\icordero\Desktop\Prog3\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\icordero\Desktop\Prog3\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\icordero\Desktop\Prog3\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Habilitacion.resources
