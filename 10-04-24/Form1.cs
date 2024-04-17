@@ -122,5 +122,10 @@ namespace _10_04_24
             lista.Items[currentItem].SubItems.Add(cuota.ToString());
             lista.Items[currentItem].SubItems.Add(fecha.Text);
         }
+
+        private void lista_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

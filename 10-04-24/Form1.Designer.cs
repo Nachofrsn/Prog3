@@ -61,6 +61,7 @@
             this.lista.Size = new System.Drawing.Size(776, 200);
             this.lista.TabIndex = 1;
             this.lista.UseCompatibleStateImageBehavior = false;
+            this.lista.SelectedIndexChanged += new System.EventHandler(this.lista_SelectedIndexChanged);
             // 
             // totBtn
             // 
