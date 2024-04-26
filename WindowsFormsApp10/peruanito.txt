@@ -1,0 +1,3 @@
+Un peruano;Verduras;Disponible;Gondola;
+boliviano;Verduras;Disponible;Gondola;
+nachito cordero;Limpieza;No disponible;Gondola;

@@ -26,35 +26,56 @@ namespace WindowsFormsApp9
 
         private void button3_Click(object sender, EventArgs e)
         {
-            sfd.AddExtension = true;
-            sfd.OverwritePrompt = true;
-            sfd.Filter = "Archivo de texto|*.txt";
-            sfd.Title = "Selecccione archivo de destino";
-
-            if (sfd.ShowDialog() == DialogResult.OK)
+            if (validar())
             {
-                FileStream archivo;
-                StreamWriter contenido;
+                sfd.AddExtension = true;
+                sfd.OverwritePrompt = true;
+                sfd.Filter = "Archivo de texto|*.txt|Archivo de Excel|*.csv";
+                sfd.Title = "Selecccione archivo de destino";
+                sfd.FilterIndex = 1;
+                string vendido = "";
 
-                archivo = new FileStream(sfd.FileName, FileMode.Append);
-                contenido = new StreamWriter(archivo);
-
-                contenido.WriteLine(mtbPatente.Text);
-                contenido.WriteLine(txbPropietario.Text);
-                if (cbVendido.Checked)
+                if (sfd.ShowDialog() == DialogResult.OK)
                 {
-                    contenido.WriteLine("Vendido");
+                    FileStream archivo;
+                    StreamWriter contenido;
+
+                    archivo = new FileStream(sfd.FileName, FileMode.Append);
+                    contenido = new StreamWriter(archivo);
+
+                    if (cbVendido.Checked) vendido = "vendido";
+                    else vendido = "No vendido";
+
+                    contenido.WriteLine($"{mtbPatente.Text};{txbPropietario.Text};{vendido}");
+
+                    mtbPatente.Clear();
+                    txbPropietario.Clear();
+
+                    contenido.Close();
+                    archivo.Close();
                 }
-                else contenido.WriteLine("No vendido");
-
-                mtbPatente.Clear();
-                txbPropietario.Clear();
-
-                contenido.Close();
-                archivo.Close();
             }
         }
 
-      
+        private bool validar()
+        {
+            bool todoOk = false;
+            if (mtbPatente.MaskCompleted)
+            {
+                if (txbPropietario.Text.Trim() != string.Empty)
+                {
+                    todoOk = true;
+                }
+                else
+                {
+                    MessageBox.Show("Ingrese el Propietario", "Atencion", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                }
+            }
+            else
+            {
+                MessageBox.Show("Ingrese la Patente", "Atencion", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+            return todoOk;
+        }
     }
 }
