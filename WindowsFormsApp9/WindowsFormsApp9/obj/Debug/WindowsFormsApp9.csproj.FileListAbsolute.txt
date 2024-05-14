@@ -8,3 +8,14 @@ C:\Users\icordero\Desktop\Prog3\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\Wind
 C:\Users\icordero\Desktop\Prog3\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
 C:\Users\icordero\Desktop\Prog3\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
 C:\Users\icordero\Desktop\Prog3\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojAssemblyReference.cache
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.AssemblyReference.cache
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.SuggestedBindingRedirects.cache
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb

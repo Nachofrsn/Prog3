@@ -9,3 +9,14 @@ C:\Users\icordero\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Windo
 C:\Users\icordero\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
 C:\Users\icordero\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
 C:\Users\icordero\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Formej2.resources
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

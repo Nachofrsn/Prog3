@@ -19,3 +19,14 @@ C:\Users\icordero\Desktop\Prog3\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.cspro
 C:\Users\icordero\Desktop\Prog3\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.csproj.CoreCompileInputs.cache
 C:\Users\icordero\Desktop\Prog3\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.exe
 C:\Users\icordero\Desktop\Prog3\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.pdb
+C:\Users\corde\Desktop\Facu\Prog3\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.exe.config
+C:\Users\corde\Desktop\Facu\Prog3\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.exe
+C:\Users\corde\Desktop\Facu\Prog3\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.pdb
+C:\Users\corde\Desktop\Facu\Prog3\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.csproj.AssemblyReference.cache
+C:\Users\corde\Desktop\Facu\Prog3\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.csproj.SuggestedBindingRedirects.cache
+C:\Users\corde\Desktop\Facu\Prog3\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.Form1.resources
+C:\Users\corde\Desktop\Facu\Prog3\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.Properties.Resources.resources
+C:\Users\corde\Desktop\Facu\Prog3\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.csproj.GenerateResource.cache
+C:\Users\corde\Desktop\Facu\Prog3\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\corde\Desktop\Facu\Prog3\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.exe
+C:\Users\corde\Desktop\Facu\Prog3\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.pdb

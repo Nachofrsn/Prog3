@@ -9,3 +9,15 @@ C:\Users\icordero\Desktop\Prog3\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Wind
 C:\Users\icordero\Desktop\Prog3\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
 C:\Users\icordero\Desktop\Prog3\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
 C:\Users\icordero\Desktop\Prog3\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmpresentacion.resources
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.formagencia.resources
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmpresentacion.resources
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\corde\Desktop\Facu\Prog3\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
