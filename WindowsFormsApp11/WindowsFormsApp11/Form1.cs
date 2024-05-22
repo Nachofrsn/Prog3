@@ -46,7 +46,7 @@ namespace WindowsFormsApp11
             txb2.Clear();
 
             SqlConnection conexion = new SqlConnection();
-            conexion.ConnectionString = "Data Source=localhost\\sqlexpress;Initial Catalog=Inmobiliaria5;Integrated security=true";
+            conexion.ConnectionString = "Data Source = TSP2-08\\SQLEXPRESS01; Initial Catalog = Inmobiliaria5; Persist Security Info = True; User ID = UserCreator; Password = UserCreator";
             conexion.Open();
             SqlCommand comando = new SqlCommand();
             comando.Connection = conexion;
