@@ -62,7 +62,7 @@ namespace WindowsFormsApp10
             sfd.OverwritePrompt = true;
             sfd.Filter = "Archivo de texto|*.txt|Archivo de Excel|*.csv";
             sfd.Title = "Selecccione archivo de destino";
-            sfd.FilterIndex = 1;
+            sfd.FilterIndex = 2;
 
 
             if (sfd.ShowDialog() == DialogResult.OK)
@@ -89,7 +89,7 @@ namespace WindowsFormsApp10
         {
             ofd.CheckFileExists = true;
             ofd.Filter = "Archivo de texto|*.txt|Archivo de Backup|*.bkp";
-            ofd.FilterIndex = 0;
+            ofd.FilterIndex = 1;
             ofd.Title = "Seleccione el archivo a abrir";
             ofd.AddExtension = true;
 

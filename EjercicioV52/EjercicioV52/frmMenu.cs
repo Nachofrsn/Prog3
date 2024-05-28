@@ -32,5 +32,6 @@ namespace EjercicioV52
         {
             this.CenterToScreen();
         }
+
     }
 }

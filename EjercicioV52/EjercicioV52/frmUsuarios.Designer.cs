@@ -35,9 +35,9 @@
             this.cmbCivil = new System.Windows.Forms.ComboBox();
             this.dtpFechaNac = new System.Windows.Forms.DateTimePicker();
             this.gbEstado = new System.Windows.Forms.GroupBox();
-            this.rbActivo = new System.Windows.Forms.RadioButton();
-            this.rbDeshabilitado = new System.Windows.Forms.RadioButton();
             this.rbBloqueado = new System.Windows.Forms.RadioButton();
+            this.rbDeshabilitado = new System.Windows.Forms.RadioButton();
+            this.rbActivo = new System.Windows.Forms.RadioButton();
             this.chkMedica = new System.Windows.Forms.CheckBox();
             this.lblDni = new System.Windows.Forms.Label();
             this.lblApellido = new System.Windows.Forms.Label();
@@ -55,46 +55,52 @@
             // 
             // txtDNI
             // 
-            this.txtDNI.Location = new System.Drawing.Point(152, 35);
+            this.txtDNI.Location = new System.Drawing.Point(114, 28);
+            this.txtDNI.Margin = new System.Windows.Forms.Padding(2);
             this.txtDNI.Name = "txtDNI";
-            this.txtDNI.Size = new System.Drawing.Size(100, 22);
+            this.txtDNI.Size = new System.Drawing.Size(76, 20);
             this.txtDNI.TabIndex = 0;
             // 
             // txtApellido
             // 
-            this.txtApellido.Location = new System.Drawing.Point(152, 69);
+            this.txtApellido.Location = new System.Drawing.Point(114, 56);
+            this.txtApellido.Margin = new System.Windows.Forms.Padding(2);
             this.txtApellido.Name = "txtApellido";
-            this.txtApellido.Size = new System.Drawing.Size(209, 22);
+            this.txtApellido.Size = new System.Drawing.Size(158, 20);
             this.txtApellido.TabIndex = 1;
             // 
             // txtNombre
             // 
-            this.txtNombre.Location = new System.Drawing.Point(152, 105);
+            this.txtNombre.Location = new System.Drawing.Point(114, 85);
+            this.txtNombre.Margin = new System.Windows.Forms.Padding(2);
             this.txtNombre.Name = "txtNombre";
-            this.txtNombre.Size = new System.Drawing.Size(209, 22);
+            this.txtNombre.Size = new System.Drawing.Size(158, 20);
             this.txtNombre.TabIndex = 2;
             // 
             // txtHijos
             // 
-            this.txtHijos.Location = new System.Drawing.Point(152, 143);
+            this.txtHijos.Location = new System.Drawing.Point(114, 116);
+            this.txtHijos.Margin = new System.Windows.Forms.Padding(2);
             this.txtHijos.Name = "txtHijos";
-            this.txtHijos.Size = new System.Drawing.Size(37, 22);
+            this.txtHijos.Size = new System.Drawing.Size(29, 20);
             this.txtHijos.TabIndex = 3;
             // 
             // cmbCivil
             // 
             this.cmbCivil.FormattingEnabled = true;
-            this.cmbCivil.Location = new System.Drawing.Point(152, 181);
+            this.cmbCivil.Location = new System.Drawing.Point(114, 147);
+            this.cmbCivil.Margin = new System.Windows.Forms.Padding(2);
             this.cmbCivil.Name = "cmbCivil";
-            this.cmbCivil.Size = new System.Drawing.Size(209, 24);
+            this.cmbCivil.Size = new System.Drawing.Size(158, 21);
             this.cmbCivil.TabIndex = 4;
             // 
             // dtpFechaNac
             // 
             this.dtpFechaNac.Format = System.Windows.Forms.DateTimePickerFormat.Short;
-            this.dtpFechaNac.Location = new System.Drawing.Point(152, 218);
+            this.dtpFechaNac.Location = new System.Drawing.Point(114, 177);
+            this.dtpFechaNac.Margin = new System.Windows.Forms.Padding(2);
             this.dtpFechaNac.Name = "dtpFechaNac";
-            this.dtpFechaNac.Size = new System.Drawing.Size(134, 22);
+            this.dtpFechaNac.Size = new System.Drawing.Size(102, 20);
             this.dtpFechaNac.TabIndex = 5;
             // 
             // gbEstado
@@ -102,124 +108,138 @@
             this.gbEstado.Controls.Add(this.rbBloqueado);
             this.gbEstado.Controls.Add(this.rbDeshabilitado);
             this.gbEstado.Controls.Add(this.rbActivo);
-            this.gbEstado.Location = new System.Drawing.Point(36, 291);
+            this.gbEstado.Location = new System.Drawing.Point(27, 236);
+            this.gbEstado.Margin = new System.Windows.Forms.Padding(2);
             this.gbEstado.Name = "gbEstado";
-            this.gbEstado.Size = new System.Drawing.Size(347, 70);
+            this.gbEstado.Padding = new System.Windows.Forms.Padding(2);
+            this.gbEstado.Size = new System.Drawing.Size(260, 57);
             this.gbEstado.TabIndex = 6;
             this.gbEstado.TabStop = false;
             this.gbEstado.Text = "Estado";
             // 
-            // rbActivo
-            // 
-            this.rbActivo.AutoSize = true;
-            this.rbActivo.Location = new System.Drawing.Point(21, 25);
-            this.rbActivo.Name = "rbActivo";
-            this.rbActivo.Size = new System.Drawing.Size(65, 20);
-            this.rbActivo.TabIndex = 0;
-            this.rbActivo.TabStop = true;
-            this.rbActivo.Text = "Activo";
-            this.rbActivo.UseVisualStyleBackColor = true;
-            // 
-            // rbDeshabilitado
-            // 
-            this.rbDeshabilitado.AutoSize = true;
-            this.rbDeshabilitado.Location = new System.Drawing.Point(106, 25);
-            this.rbDeshabilitado.Name = "rbDeshabilitado";
-            this.rbDeshabilitado.Size = new System.Drawing.Size(112, 20);
-            this.rbDeshabilitado.TabIndex = 1;
-            this.rbDeshabilitado.TabStop = true;
-            this.rbDeshabilitado.Text = "Deshabilitado";
-            this.rbDeshabilitado.UseVisualStyleBackColor = true;
-            // 
             // rbBloqueado
             // 
             this.rbBloqueado.AutoSize = true;
-            this.rbBloqueado.Location = new System.Drawing.Point(237, 25);
+            this.rbBloqueado.Location = new System.Drawing.Point(178, 20);
+            this.rbBloqueado.Margin = new System.Windows.Forms.Padding(2);
             this.rbBloqueado.Name = "rbBloqueado";
-            this.rbBloqueado.Size = new System.Drawing.Size(95, 20);
+            this.rbBloqueado.Size = new System.Drawing.Size(76, 17);
             this.rbBloqueado.TabIndex = 2;
             this.rbBloqueado.TabStop = true;
             this.rbBloqueado.Text = "Bloqueado";
             this.rbBloqueado.UseVisualStyleBackColor = true;
             // 
+            // rbDeshabilitado
+            // 
+            this.rbDeshabilitado.AutoSize = true;
+            this.rbDeshabilitado.Location = new System.Drawing.Point(80, 20);
+            this.rbDeshabilitado.Margin = new System.Windows.Forms.Padding(2);
+            this.rbDeshabilitado.Name = "rbDeshabilitado";
+            this.rbDeshabilitado.Size = new System.Drawing.Size(89, 17);
+            this.rbDeshabilitado.TabIndex = 1;
+            this.rbDeshabilitado.TabStop = true;
+            this.rbDeshabilitado.Text = "Deshabilitado";
+            this.rbDeshabilitado.UseVisualStyleBackColor = true;
+            // 
+            // rbActivo
+            // 
+            this.rbActivo.AutoSize = true;
+            this.rbActivo.Location = new System.Drawing.Point(16, 20);
+            this.rbActivo.Margin = new System.Windows.Forms.Padding(2);
+            this.rbActivo.Name = "rbActivo";
+            this.rbActivo.Size = new System.Drawing.Size(55, 17);
+            this.rbActivo.TabIndex = 0;
+            this.rbActivo.TabStop = true;
+            this.rbActivo.Text = "Activo";
+            this.rbActivo.UseVisualStyleBackColor = true;
+            // 
             // chkMedica
             // 
             this.chkMedica.AutoSize = true;
-            this.chkMedica.Location = new System.Drawing.Point(152, 257);
+            this.chkMedica.Location = new System.Drawing.Point(114, 209);
+            this.chkMedica.Margin = new System.Windows.Forms.Padding(2);
             this.chkMedica.Name = "chkMedica";
-            this.chkMedica.Size = new System.Drawing.Size(18, 17);
+            this.chkMedica.Size = new System.Drawing.Size(15, 14);
             this.chkMedica.TabIndex = 7;
             this.chkMedica.UseVisualStyleBackColor = true;
             // 
             // lblDni
             // 
             this.lblDni.AutoSize = true;
-            this.lblDni.Location = new System.Drawing.Point(111, 41);
+            this.lblDni.Location = new System.Drawing.Point(83, 33);
+            this.lblDni.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblDni.Name = "lblDni";
-            this.lblDni.Size = new System.Drawing.Size(30, 16);
+            this.lblDni.Size = new System.Drawing.Size(26, 13);
             this.lblDni.TabIndex = 8;
             this.lblDni.Text = "Dni:";
             // 
             // lblApellido
             // 
             this.lblApellido.AutoSize = true;
-            this.lblApellido.Location = new System.Drawing.Point(81, 75);
+            this.lblApellido.Location = new System.Drawing.Point(61, 61);
+            this.lblApellido.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblApellido.Name = "lblApellido";
-            this.lblApellido.Size = new System.Drawing.Size(60, 16);
+            this.lblApellido.Size = new System.Drawing.Size(47, 13);
             this.lblApellido.TabIndex = 9;
             this.lblApellido.Text = "Apellido:";
             // 
             // lblNombre
             // 
             this.lblNombre.AutoSize = true;
-            this.lblNombre.Location = new System.Drawing.Point(82, 111);
+            this.lblNombre.Location = new System.Drawing.Point(62, 90);
+            this.lblNombre.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblNombre.Name = "lblNombre";
-            this.lblNombre.Size = new System.Drawing.Size(59, 16);
+            this.lblNombre.Size = new System.Drawing.Size(47, 13);
             this.lblNombre.TabIndex = 10;
             this.lblNombre.Text = "Nombre:";
             // 
             // lblHijos
             // 
             this.lblHijos.AutoSize = true;
-            this.lblHijos.Location = new System.Drawing.Point(67, 149);
+            this.lblHijos.Location = new System.Drawing.Point(50, 121);
+            this.lblHijos.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblHijos.Name = "lblHijos";
-            this.lblHijos.Size = new System.Drawing.Size(74, 16);
+            this.lblHijos.Size = new System.Drawing.Size(61, 13);
             this.lblHijos.TabIndex = 11;
             this.lblHijos.Text = "Cant. Hijos:";
             // 
             // lblCivil
             // 
             this.lblCivil.AutoSize = true;
-            this.lblCivil.Location = new System.Drawing.Point(60, 189);
+            this.lblCivil.Location = new System.Drawing.Point(45, 154);
+            this.lblCivil.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblCivil.Name = "lblCivil";
-            this.lblCivil.Size = new System.Drawing.Size(81, 16);
+            this.lblCivil.Size = new System.Drawing.Size(65, 13);
             this.lblCivil.TabIndex = 12;
             this.lblCivil.Text = "Estado Civil:";
             // 
             // lblFechaNac
             // 
             this.lblFechaNac.AutoSize = true;
-            this.lblFechaNac.Location = new System.Drawing.Point(62, 224);
+            this.lblFechaNac.Location = new System.Drawing.Point(46, 182);
+            this.lblFechaNac.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblFechaNac.Name = "lblFechaNac";
-            this.lblFechaNac.Size = new System.Drawing.Size(79, 16);
+            this.lblFechaNac.Size = new System.Drawing.Size(66, 13);
             this.lblFechaNac.TabIndex = 13;
             this.lblFechaNac.Text = "Fecha Nac.:";
             // 
             // lblMedica
             // 
             this.lblMedica.AutoSize = true;
-            this.lblMedica.Location = new System.Drawing.Point(15, 256);
+            this.lblMedica.Location = new System.Drawing.Point(11, 208);
+            this.lblMedica.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblMedica.Name = "lblMedica";
-            this.lblMedica.Size = new System.Drawing.Size(126, 16);
+            this.lblMedica.Size = new System.Drawing.Size(101, 13);
             this.lblMedica.TabIndex = 14;
             this.lblMedica.Text = "Revisacion Medica:";
             // 
             // lsvGrilla
             // 
             this.lsvGrilla.HideSelection = false;
-            this.lsvGrilla.Location = new System.Drawing.Point(444, 20);
+            this.lsvGrilla.Location = new System.Drawing.Point(333, 16);
+            this.lsvGrilla.Margin = new System.Windows.Forms.Padding(2);
             this.lsvGrilla.Name = "lsvGrilla";
-            this.lsvGrilla.Size = new System.Drawing.Size(678, 426);
+            this.lsvGrilla.Size = new System.Drawing.Size(510, 347);
             this.lsvGrilla.TabIndex = 15;
             this.lsvGrilla.UseCompatibleStateImageBehavior = false;
             // 
@@ -241,18 +261,21 @@
             this.gpDatos.Controls.Add(this.lblApellido);
             this.gpDatos.Controls.Add(this.chkMedica);
             this.gpDatos.Controls.Add(this.lblDni);
-            this.gpDatos.Location = new System.Drawing.Point(12, 12);
+            this.gpDatos.Location = new System.Drawing.Point(9, 10);
+            this.gpDatos.Margin = new System.Windows.Forms.Padding(2);
             this.gpDatos.Name = "gpDatos";
-            this.gpDatos.Size = new System.Drawing.Size(426, 434);
+            this.gpDatos.Padding = new System.Windows.Forms.Padding(2);
+            this.gpDatos.Size = new System.Drawing.Size(320, 353);
             this.gpDatos.TabIndex = 16;
             this.gpDatos.TabStop = false;
             this.gpDatos.Text = "Datos del Usuario";
             // 
             // btnRegistrar
             // 
-            this.btnRegistrar.Location = new System.Drawing.Point(114, 373);
+            this.btnRegistrar.Location = new System.Drawing.Point(86, 303);
+            this.btnRegistrar.Margin = new System.Windows.Forms.Padding(2);
             this.btnRegistrar.Name = "btnRegistrar";
-            this.btnRegistrar.Size = new System.Drawing.Size(181, 46);
+            this.btnRegistrar.Size = new System.Drawing.Size(136, 37);
             this.btnRegistrar.TabIndex = 15;
             this.btnRegistrar.Text = "Registrar";
             this.btnRegistrar.UseVisualStyleBackColor = true;
@@ -260,11 +283,12 @@
             // 
             // frmUsuarios
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1134, 458);
+            this.ClientSize = new System.Drawing.Size(850, 372);
             this.Controls.Add(this.gpDatos);
             this.Controls.Add(this.lsvGrilla);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "frmUsuarios";
             this.Text = "Usuarios";
             this.Load += new System.EventHandler(this.frmUsuarios_Load);
